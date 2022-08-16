@@ -1,5 +1,3 @@
-# Project-JPFP-FSA
-
 # Junior Phase Final Project
 
 ## Getting started
